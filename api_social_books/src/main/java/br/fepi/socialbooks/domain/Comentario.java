@@ -1,7 +1,5 @@
 package br.fepi.socialbooks.domain;
-
 import java.util.Date;
-
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;

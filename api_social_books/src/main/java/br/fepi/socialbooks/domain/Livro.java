@@ -1,5 +1,4 @@
 package br.fepi.socialbooks.domain;
-
 import java.util.Date;
 import java.util.List;
 
